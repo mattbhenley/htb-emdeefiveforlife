@@ -19,4 +19,4 @@ This is the script I used to extract the encrypted string:
 
 ![emdee2](https://github.com/mattbhenley/Images/blob/master/emdeefivepython.png)
 
-So this script essentially targets the URL, grabs the string from “h3 align=‘center” and encrypts it. It then returns the result in text in the “p align=center” where our message “Too slow!” initially was. {HTB Flag: HTB{N1c3_ScrIpt1nG_B0i!}
+So this script essentially targets the URL, grabs the string from “h3 align=‘center” and encrypts it. It then returns the result in text in the “p align=center” where our message “Too slow!” initially was. HTB Flag: HTB{N1c3_ScrIpt1nG_B0i!}
