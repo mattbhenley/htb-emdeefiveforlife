@@ -12,7 +12,9 @@ I then thought that executing a python script on my machine might be the fastest
 This is the script I used to extract the encrypted string: 
 
 -re module - for regex
+
 -hashlib - for MD5
+
 -requests module - for GET and POST
 
 ![emdee2](https://github.com/mattbhenley/Images/blob/master/emdeefivepython.png)
